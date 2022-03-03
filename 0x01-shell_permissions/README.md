@@ -1,1 +1,1 @@
-setting permission to the file hello
+permissions for the file hello
