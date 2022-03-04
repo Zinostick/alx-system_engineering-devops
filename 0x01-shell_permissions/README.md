@@ -1,1 +1,1 @@
-changing the owner to vincent and the group owner to staff for all the working directories
+changing the owner and the group owner to vincent and staff
