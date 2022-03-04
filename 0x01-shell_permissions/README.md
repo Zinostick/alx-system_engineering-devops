@@ -1,1 +1,1 @@
-changing group owner to school for the file hello
+changing the owner to vincent and the group owner to staff for all the working directories
