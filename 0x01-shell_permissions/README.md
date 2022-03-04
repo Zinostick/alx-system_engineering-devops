@@ -1,1 +1,1 @@
-creating a directory my_dir with permission 751
+changing group owner to school for the file hello
