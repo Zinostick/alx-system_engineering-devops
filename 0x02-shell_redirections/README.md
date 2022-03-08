@@ -1,1 +1,1 @@
-script on hello world
+script for hello file
